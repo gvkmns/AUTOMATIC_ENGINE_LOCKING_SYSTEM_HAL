@@ -95,7 +95,12 @@ that's your hardware, swap `GSM_GetLocation()` for a small NMEA
 ---------------------------------------------------------------------------------------------------------------------------
 
 Name: G VAMSHI KRISHNA
+
 Email: gvkmns@gmail.com
+
 LinkedIn: linkedin.com/in/gvkmns108
-GitHub: github.com/gvkmns.
+
+GitHub: github.com/gvkmns
+
 Date : 18-07-2026 (sunday)
+
