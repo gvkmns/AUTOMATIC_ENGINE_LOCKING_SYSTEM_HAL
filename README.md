@@ -92,7 +92,7 @@ that's your hardware, swap `GSM_GetLocation()` for a small NMEA
 `$GPGGA`/`$GPRMC` parser reading from that second UART, and keep
 `GSM_SendSMS()` as-is for the SIM800C leg.
 
-
+---------------------------------------------------------------------------------------------------------------------------
 
 Name: G VAMSHI KRISHNA
 Email: gvkmns@gmail.com
