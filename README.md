@@ -91,3 +91,11 @@ separate discrete GPS module (e.g. NEO-6M) on its own UART instead. If
 that's your hardware, swap `GSM_GetLocation()` for a small NMEA
 `$GPGGA`/`$GPRMC` parser reading from that second UART, and keep
 `GSM_SendSMS()` as-is for the SIM800C leg.
+
+
+
+Name: G VAMSHI KRISHNA
+Email: gvkmns@gmail.com
+LinkedIn: linkedin.com/in/gvkmns108
+GitHub: github.com/gvkmns.
+Date : 18-07-2026 (sunday)
